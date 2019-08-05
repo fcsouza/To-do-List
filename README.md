@@ -1,4 +1,4 @@
-## Projeto Sonata Todo List
+## Projeto Sonata To-do List
 
 npm install
 
